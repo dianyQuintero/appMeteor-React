@@ -1,0 +1,18 @@
+.Img{
+    width: 100px ;
+    height: 100px;
+}
+#titulo{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 50px;
+}
+#days{
+    width: 145px ;
+    height: 330px;
+    background-color: beige;
+}
+#Contenedor{
+    border: 1px solid #000;
+    padding: 50px;
+    border-radius: 8px;
+}
